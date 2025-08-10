@@ -4,7 +4,11 @@
 
 I just feel some pawns work better as friends. Sometimes I'm holding out for someone with the right skillset for optimal cohabitation. Or maybe we're working on a specific gene breeding project, who knows? Either way, we all have our reasons to want to exclude certain pawns from romancing each other. With this mod, you  can do that.
 
+[img]https://raw.githubusercontent.com/lydocia/rwPlatonicRelationships/refs/heads/main/info1.png[/img]
+
 This mod adds platonic relationships to the game. That means that, between pawns with any of these relationships active, the romantic interest is zero. It's fairly similar to my other mod, [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3364083523]Adoptive Relationships[/url], just with different relationship names.
+
+[img]https://raw.githubusercontent.com/lydocia/rwSharedAssets/refs/heads/main/needs_charedit.png[/img]
 
 These relationships do not happen naturally, you will have to add them manually at the beginning of the game using [url=https://steamcommunity.com/sharedfiles/filedetails/?id=735106432]Prepare Carefully[/url] or mid-game using [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1874644848]Character Editor[/url].
 
