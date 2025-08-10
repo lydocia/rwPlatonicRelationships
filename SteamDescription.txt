@@ -1,6 +1,6 @@
-[img]https://raw.githubusercontent.com/lydocia/ModsRimworld/refs/heads/main/PlatonicRelationships/banner.png[/img]
+[img]https://raw.githubusercontent.com/lydocia/rwPlatonicRelationships/refs/heads/main/banner.png[/img]
 
-[img]https://raw.githubusercontent.com/lydocia/ModsRimworld/refs/heads/main/description.png[/img]
+[img]https://raw.githubusercontent.com/lydocia/rwSharedAssets/refs/heads/main/description.png[/img]
 
 I just feel some pawns work better as friends. Sometimes I'm holding out for someone with the right skillset for optimal cohabitation. Or maybe we're working on a specific gene breeding project, who knows? Either way, we all have our reasons to want to exclude certain pawns from romancing each other. With this mod, you  can do that.
 
@@ -10,7 +10,7 @@ These relationships do not happen naturally, you will have to add them manually 
 
 
 
-[img]https://raw.githubusercontent.com/lydocia/ModsRimworld/refs/heads/main/faq.png[/img]
+[img]https://raw.githubusercontent.com/lydocia/rwSharedAssets/refs/heads/main/faq.png[/img]
 
 💀 [b]Will you add...?[/b]
 
@@ -20,7 +20,7 @@ Post your suggestions in the comment section, or reach out through Discord.
 
 
 
-[img]https://raw.githubusercontent.com/lydocia/ModsRimworld/refs/heads/main/changelog.png[/img]
+[img]https://raw.githubusercontent.com/lydocia/rwSharedAssets/refs/heads/main/changelog.png[/img]
 
 [05/08/25] 
 Fixed some issues with case sensitivity.
@@ -63,6 +63,6 @@ Added relationships:
 
 
 
-[url=https://steamcommunity.com/id/lydocia/myworkshopfiles/?appid=294100][img]https://raw.githubusercontent.com/lydocia/ModsRimworld/refs/heads/main/othermods.png[/img][/url]
-[url=https://discord.gg/ZPcuC3B][img]https://raw.githubusercontent.com/lydocia/ModsRimworld/refs/heads/main/modbucket.png[/img][/url]
-[url=https://ko-fi.com/lydocia][img]https://raw.githubusercontent.com/lydocia/ModsRimworld/refs/heads/main/kofi.png[/img][/url]
+[url=https://steamcommunity.com/id/lydocia/myworkshopfiles/?appid=294100][img]https://raw.githubusercontent.com/lydocia/rwSharedAssets/refs/heads/main/othermods.png[/img][/url]
+[url=https://discord.gg/ZPcuC3B][img]https://raw.githubusercontent.com/lydocia/rwSharedAssets/refs/heads/main/modbucket.png[/img][/url]
+[url=https://ko-fi.com/lydocia][img]https://raw.githubusercontent.com/lydocia/rwSharedAssets/refs/heads/main/kofi.png[/img][/url]
