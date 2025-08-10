@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <ThoughtDef ParentName="DeathMemoryFamily">
+    <defName>BestFriendDied</defName>
+    <stages>
+      <li>
+        <label>my best friend {0} died</label>
+        <description>My best friend died.</description>
+        <baseMoodEffect>-10</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+   <ThoughtDef>
+    <defName>BestFriendKilled</defName>
+    <thoughtClass>Thought_MemorySocial</thoughtClass>
+    <durationDays>60</durationDays>
+    <stackLimit>300</stackLimit>
+    <stackLimitForSameOtherPawn>10</stackLimitForSameOtherPawn>
+    <stages>
+      <li>
+        <label>killed my best friend</label>
+        <baseOpinionOffset>-80</baseOpinionOffset>
+      </li>
+    </stages>
+  </ThoughtDef> 
+
+  <ThoughtDef ParentName="DeathMemoryFamily">
+    <defName>ChildhoodFriendDied</defName>
+    <stages>
+      <li>
+        <label>my childhood friend {0} died</label>
+        <description>My childhood friend died.</description>
+        <baseMoodEffect>-10</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+   <ThoughtDef>
+    <defName>ChildhoodFriendKilled</defName>
+    <thoughtClass>Thought_MemorySocial</thoughtClass>
+    <durationDays>60</durationDays>
+    <stackLimit>300</stackLimit>
+    <stackLimitForSameOtherPawn>10</stackLimitForSameOtherPawn>
+    <stages>
+      <li>
+        <label>killed my childhood friend</label>
+        <baseOpinionOffset>-50</baseOpinionOffset>
+      </li>
+    </stages>
+  </ThoughtDef> 
+  
+  <ThoughtDef ParentName="DeathMemoryFamily">
+    <defName>ClassmateDied</defName>
+    <stages>
+      <li>
+        <label>my classmate {0} died</label>
+        <description>My classmate died.</description>
+        <baseMoodEffect>-5</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+   <ThoughtDef>
+    <defName>ClassmateKilled</defName>
+    <thoughtClass>Thought_MemorySocial</thoughtClass>
+    <durationDays>60</durationDays>
+    <stackLimit>300</stackLimit>
+    <stackLimitForSameOtherPawn>10</stackLimitForSameOtherPawn>
+    <stages>
+      <li>
+        <label>killed my classmate</label>
+        <baseOpinionOffset>-20</baseOpinionOffset>
+      </li>
+    </stages>
+  </ThoughtDef> 
+  
+  <ThoughtDef ParentName="DeathMemoryFamily">
+    <defName>TwinSiblingDied</defName>
+    <stages>
+      <li>
+        <label>my twin {0} died</label>
+        <description>My twin died.</description>
+        <baseMoodEffect>-10</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+  
+   <ThoughtDef>
+    <defName>TwinSiblingKilled</defName>
+    <thoughtClass>Thought_MemorySocial</thoughtClass>
+    <durationDays>60</durationDays>
+    <stackLimit>300</stackLimit>
+    <stackLimitForSameOtherPawn>10</stackLimitForSameOtherPawn>
+    <stages>
+      <li>
+        <label>killed my twin</label>
+        <baseOpinionOffset>-80</baseOpinionOffset>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+  <ThoughtDef ParentName="DeathMemoryFamily">
+    <defName>SupervisorDied</defName>
+    <stages>
+      <li>
+        <label>my supervisor {0} died</label>
+        <description>My supervisor died.</description>
+        <baseMoodEffect>-5</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+   <ThoughtDef>
+    <defName>SupervisorKilled</defName>
+    <thoughtClass>Thought_MemorySocial</thoughtClass>
+    <durationDays>60</durationDays>
+    <stackLimit>300</stackLimit>
+    <stackLimitForSameOtherPawn>10</stackLimitForSameOtherPawn>
+    <stages>
+      <li>
+        <label>killed my supervisor</label>
+        <baseOpinionOffset>-20</baseOpinionOffset>
+      </li>
+    </stages>
+  </ThoughtDef> 
+
+  <ThoughtDef ParentName="DeathMemoryFamily">
+    <defName>SubordinateDied</defName>
+    <stages>
+      <li>
+        <label>my subordinate {0} died</label>
+        <description>My subordinate died.</description>
+        <baseMoodEffect>-5</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+   <ThoughtDef>
+    <defName>SubordinateKilled</defName>
+    <thoughtClass>Thought_MemorySocial</thoughtClass>
+    <durationDays>60</durationDays>
+    <stackLimit>300</stackLimit>
+    <stackLimitForSameOtherPawn>10</stackLimitForSameOtherPawn>
+    <stages>
+      <li>
+        <label>killed my subordinate</label>
+        <baseOpinionOffset>-20</baseOpinionOffset>
+      </li>
+    </stages>
+  </ThoughtDef> 
+
+  <ThoughtDef ParentName="DeathMemoryFamily">
+    <defName>MentorDied</defName>
+    <stages>
+      <li>
+        <label>my mentor {0} died</label>
+        <description>My mentor died.</description>
+        <baseMoodEffect>-5</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+   <ThoughtDef>
+    <defName>MentorKilled</defName>
+    <thoughtClass>Thought_MemorySocial</thoughtClass>
+    <durationDays>60</durationDays>
+    <stackLimit>300</stackLimit>
+    <stackLimitForSameOtherPawn>10</stackLimitForSameOtherPawn>
+    <stages>
+      <li>
+        <label>killed my mentor</label>
+        <baseOpinionOffset>-20</baseOpinionOffset>
+      </li>
+    </stages>
+  </ThoughtDef> 
+
+  <ThoughtDef ParentName="DeathMemoryFamily">
+    <defName>AssistantDied</defName>
+    <stages>
+      <li>
+        <label>my assistant {0} died</label>
+        <description>My assistant died.</description>
+        <baseMoodEffect>-5</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+   <ThoughtDef>
+    <defName>AssistantKilled</defName>
+    <thoughtClass>Thought_MemorySocial</thoughtClass>
+    <durationDays>60</durationDays>
+    <stackLimit>300</stackLimit>
+    <stackLimitForSameOtherPawn>10</stackLimitForSameOtherPawn>
+    <stages>
+      <li>
+        <label>killed my assistant</label>
+        <baseOpinionOffset>-20</baseOpinionOffset>
+      </li>
+    </stages>
+  </ThoughtDef> 
+  
+    <ThoughtDef ParentName="DeathMemoryFamily">
+    <defName>ChosenFamilyDied</defName>
+    <stages>
+      <li>
+        <label>my chosen family member {0} died</label>
+        <description>My chosen family member died.</description>
+        <baseMoodEffect>-5</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+   <ThoughtDef>
+    <defName>ChosenFamilyKilled</defName>
+    <thoughtClass>Thought_MemorySocial</thoughtClass>
+    <durationDays>60</durationDays>
+    <stackLimit>300</stackLimit>
+    <stackLimitForSameOtherPawn>10</stackLimitForSameOtherPawn>
+    <stages>
+      <li>
+        <label>killed my chosen family member</label>
+        <baseOpinionOffset>-20</baseOpinionOffset>
+      </li>
+    </stages>
+  </ThoughtDef> 
+ 
+   <ThoughtDef ParentName="DeathMemoryFamily">
+    <defName>ProfessorDied</defName>
+    <stages>
+      <li>
+        <label>my professor {0} died</label>
+        <description>My professor died.</description>
+        <baseMoodEffect>-5</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+   <ThoughtDef>
+    <defName>ProfessorKilled</defName>
+    <thoughtClass>Thought_MemorySocial</thoughtClass>
+    <durationDays>60</durationDays>
+    <stackLimit>300</stackLimit>
+    <stackLimitForSameOtherPawn>10</stackLimitForSameOtherPawn>
+    <stages>
+      <li>
+        <label>killed my professor</label>
+        <baseOpinionOffset>-20</baseOpinionOffset>
+      </li>
+    </stages>
+  </ThoughtDef> 
+
+   <ThoughtDef ParentName="DeathMemoryFamily">
+    <defName>TeacherDied</defName>
+    <stages>
+      <li>
+        <label>my teacher {0} died</label>
+        <description>My teacher died.</description>
+        <baseMoodEffect>-5</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+   <ThoughtDef>
+    <defName>TeacherKilled</defName>
+    <thoughtClass>Thought_MemorySocial</thoughtClass>
+    <durationDays>60</durationDays>
+    <stackLimit>300</stackLimit>
+    <stackLimitForSameOtherPawn>10</stackLimitForSameOtherPawn>
+    <stages>
+      <li>
+        <label>killed my teacher</label>
+        <baseOpinionOffset>-20</baseOpinionOffset>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+   <ThoughtDef ParentName="DeathMemoryFamily">
+    <defName>StudentDied</defName>
+    <stages>
+      <li>
+        <label>my student {0} died</label>
+        <description>My student died.</description>
+        <baseMoodEffect>-5</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+   <ThoughtDef>
+    <defName>StudentKilled</defName>
+    <thoughtClass>Thought_MemorySocial</thoughtClass>
+    <durationDays>60</durationDays>
+    <stackLimit>300</stackLimit>
+    <stackLimitForSameOtherPawn>10</stackLimitForSameOtherPawn>
+    <stages>
+      <li>
+        <label>killed my student</label>
+        <baseOpinionOffset>-20</baseOpinionOffset>
+      </li>
+    </stages>
+  </ThoughtDef>
+ 
+  <ThoughtDef ParentName="DeathMemoryFamily">
+    <defName>BusinessPartnerDied</defName>
+    <stages>
+      <li>
+        <label>my business partner {0} died</label>
+        <description>My business partner died.</description>
+        <baseMoodEffect>-10</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+   <ThoughtDef>
+    <defName>BusinessPartnerKilled</defName>
+    <thoughtClass>Thought_MemorySocial</thoughtClass>
+    <durationDays>60</durationDays>
+    <stackLimit>300</stackLimit>
+    <stackLimitForSameOtherPawn>10</stackLimitForSameOtherPawn>
+    <stages>
+      <li>
+        <label>killed my business partner</label>
+        <baseOpinionOffset>-20</baseOpinionOffset>
+      </li>
+    </stages>
+  </ThoughtDef> 
+  
+  <ThoughtDef ParentName="DeathMemoryFamily">
+    <defName>SiblingInArmsDied</defName>
+    <stages>
+      <li>
+        <label>my sibling-in-arms {0} died</label>
+        <description>My sibling-in-arms died.</description>
+        <baseMoodEffect>-10</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+   <ThoughtDef>
+    <defName>SiblingInArmsKilled</defName>
+    <thoughtClass>Thought_MemorySocial</thoughtClass>
+    <durationDays>60</durationDays>
+    <stackLimit>300</stackLimit>
+    <stackLimitForSameOtherPawn>10</stackLimitForSameOtherPawn>
+    <stages>
+      <li>
+        <label>killed my sibling-in-arms</label>
+        <baseOpinionOffset>-20</baseOpinionOffset>
+      </li>
+    </stages>
+  </ThoughtDef> 
+
+  <ThoughtDef ParentName="DeathMemoryFamily">
+    <defName>ColleagueDied</defName>
+    <stages>
+      <li>
+        <label>my colleague {0} died</label>
+        <description>My colleague died.</description>
+        <baseMoodEffect>-5</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+   <ThoughtDef>
+    <defName>ColleagueKilled</defName>
+    <thoughtClass>Thought_MemorySocial</thoughtClass>
+    <durationDays>60</durationDays>
+    <stackLimit>300</stackLimit>
+    <stackLimitForSameOtherPawn>10</stackLimitForSameOtherPawn>
+    <stages>
+      <li>
+        <label>killed my colleague</label>
+        <baseOpinionOffset>-20</baseOpinionOffset>
+      </li>
+    </stages>
+  </ThoughtDef> 
+
+  <ThoughtDef ParentName="DeathMemoryFamily">
+    <defName>CoworkerDied</defName>
+    <stages>
+      <li>
+        <label>my coworker {0} died</label>
+        <description>My coworker died.</description>
+        <baseMoodEffect>-5</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+   <ThoughtDef>
+    <defName>CoworkerKilled</defName>
+    <thoughtClass>Thought_MemorySocial</thoughtClass>
+    <durationDays>60</durationDays>
+    <stackLimit>300</stackLimit>
+    <stackLimitForSameOtherPawn>10</stackLimitForSameOtherPawn>
+    <stages>
+      <li>
+        <label>killed my coworker</label>
+        <baseOpinionOffset>-20</baseOpinionOffset>
+      </li>
+    </stages>
+  </ThoughtDef> 
+
+  <ThoughtDef ParentName="DeathMemoryFamily">
+    <defName>GodparentDied</defName>
+    <stages>
+      <li>
+        <label>my godparent {0} died</label>
+        <description>My godparent died.</description>
+        <baseMoodEffect>-10</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+   <ThoughtDef>
+    <defName>GodparentKilled</defName>
+    <thoughtClass>Thought_MemorySocial</thoughtClass>
+    <durationDays>60</durationDays>
+    <stackLimit>300</stackLimit>
+    <stackLimitForSameOtherPawn>10</stackLimitForSameOtherPawn>
+    <stages>
+      <li>
+        <label>killed my godparent</label>
+        <baseOpinionOffset>-20</baseOpinionOffset>
+      </li>
+    </stages>
+  </ThoughtDef> 
+ 
+   <ThoughtDef ParentName="DeathMemoryFamily">
+    <defName>GodchildDied</defName>
+    <stages>
+      <li>
+        <label>my godchild {0} died</label>
+        <description>My godchild died.</description>
+        <baseMoodEffect>-10</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+   <ThoughtDef>
+    <defName>GodchildKilled</defName>
+    <thoughtClass>Thought_MemorySocial</thoughtClass>
+    <durationDays>60</durationDays>
+    <stackLimit>300</stackLimit>
+    <stackLimitForSameOtherPawn>10</stackLimitForSameOtherPawn>
+    <stages>
+      <li>
+        <label>killed my godchild</label>
+        <baseOpinionOffset>-20</baseOpinionOffset>
+      </li>
+    </stages>
+  </ThoughtDef> 
+
+  <ThoughtDef ParentName="DeathMemoryFamily">
+    <defName>CaptainDied</defName>
+    <stages>
+      <li>
+        <label>my captain {0} died</label>
+        <description>My captain died.</description>
+        <baseMoodEffect>-5</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+   <ThoughtDef>
+    <defName>CaptainKilled</defName>
+    <thoughtClass>Thought_MemorySocial</thoughtClass>
+    <durationDays>60</durationDays>
+    <stackLimit>300</stackLimit>
+    <stackLimitForSameOtherPawn>10</stackLimitForSameOtherPawn>
+    <stages>
+      <li>
+        <label>killed my captain</label>
+        <baseOpinionOffset>-20</baseOpinionOffset>
+      </li>
+    </stages>
+  </ThoughtDef> 
+
+  <ThoughtDef ParentName="DeathMemoryFamily">
+    <defName>CrewmateDied</defName>
+    <stages>
+      <li>
+        <label>my crewmate {0} died</label>
+        <description>My crewmate died.</description>
+        <baseMoodEffect>-5</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+   <ThoughtDef>
+    <defName>CrewmateKilled</defName>
+    <thoughtClass>Thought_MemorySocial</thoughtClass>
+    <durationDays>60</durationDays>
+    <stackLimit>300</stackLimit>
+    <stackLimitForSameOtherPawn>10</stackLimitForSameOtherPawn>
+    <stages>
+      <li>
+        <label>killed my crewmate</label>
+        <baseOpinionOffset>-20</baseOpinionOffset>
+      </li>
+    </stages>
+  </ThoughtDef> 
+  
+</Defs>

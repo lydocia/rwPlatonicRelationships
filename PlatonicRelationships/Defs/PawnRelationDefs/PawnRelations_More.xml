@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <PawnRelationDef>
+    <defName>BestFriend</defName>
+    <label>best friend</label>
+    <labelFemale>best friend</labelFemale>
+    <diedThought>BestFriendDied</diedThought>
+    <killedThought>BestFriendKilled</killedThought>
+    <importance>150</importance>
+    <opinionOffset>10</opinionOffset>
+    <implied>false</implied>
+    <reflexive>true</reflexive>
+	<generationChanceFactor>0</generationChanceFactor>
+	<romanceChanceFactor>0</romanceChanceFactor>
+  </PawnRelationDef>
+
+  <PawnRelationDef>
+    <defName>ChildhoodFriend</defName>
+    <label>childhood friend</label>
+    <labelFemale>childhood friend</labelFemale>
+    <diedThought>ChildhoodFriendDied</diedThought>
+    <killedThought>ChildhoodFriendKilled</killedThought>
+    <importance>150</importance>
+    <opinionOffset>10</opinionOffset>
+    <implied>false</implied>
+    <reflexive>true</reflexive>
+	<generationChanceFactor>0</generationChanceFactor>
+	<romanceChanceFactor>0</romanceChanceFactor>
+  </PawnRelationDef>
+
+  <PawnRelationDef>
+    <defName>Classmate</defName>
+    <label>classmate</label>
+    <labelFemale>classmate</labelFemale>
+    <diedThought>ClassmateDied</diedThought>
+    <killedThought>ClassmateKilled</killedThought>
+    <importance>10</importance>
+    <opinionOffset>10</opinionOffset>
+    <implied>false</implied>
+    <reflexive>true</reflexive>
+	<generationChanceFactor>0</generationChanceFactor>
+	<romanceChanceFactor>0</romanceChanceFactor>
+  </PawnRelationDef>
+
+  <PawnRelationDef>
+    <defName>TwinSibling</defName>
+    <label>twin brother</label>
+    <labelFemale>twin sister</labelFemale>
+    <diedThought>TwinSiblingDied</diedThought>
+    <killedThought>TwinSiblingKilled</killedThought>
+    <importance>150</importance>
+    <opinionOffset>10</opinionOffset>
+    <implied>false</implied>
+    <reflexive>true</reflexive>
+	<generationChanceFactor>0</generationChanceFactor>
+	<romanceChanceFactor>0</romanceChanceFactor>
+  </PawnRelationDef>
+ 
+   <PawnRelationDef>
+    <defName>Supervisor</defName>
+    <label>supervisor</label>
+    <labelFemale>supervisor</labelFemale>
+    <diedThought>SupervisorDied</diedThought>
+    <killedThought>SupervisorKilled</killedThought>
+    <importance>10</importance>
+    <opinionOffset>10</opinionOffset>
+    <implied>false</implied>
+    <reflexive>false</reflexive>
+	<generationChanceFactor>0</generationChanceFactor>
+	<romanceChanceFactor>0</romanceChanceFactor>
+  </PawnRelationDef>
+  
+   <PawnRelationDef>
+    <defName>Subordinate</defName>
+    <label>subordinate</label>
+    <labelFemale>subordinate</labelFemale>
+    <diedThought>SubordinateDied</diedThought>
+    <killedThought>SubordinateKilled</killedThought>
+    <importance>10</importance>
+    <opinionOffset>10</opinionOffset>
+    <implied>false</implied>
+    <reflexive>false</reflexive>
+	<generationChanceFactor>0</generationChanceFactor>
+	<romanceChanceFactor>0</romanceChanceFactor>
+  </PawnRelationDef>
+
+   <PawnRelationDef>
+    <defName>Mentor</defName>
+    <label>mentor</label>
+    <labelFemale>mentor</labelFemale>
+    <diedThought>MentorDied</diedThought>
+    <killedThought>MentorKilled</killedThought>
+    <importance>50</importance>
+    <opinionOffset>10</opinionOffset>
+    <implied>false</implied>
+    <reflexive>false</reflexive>
+	<generationChanceFactor>0</generationChanceFactor>
+	<romanceChanceFactor>0</romanceChanceFactor>
+  </PawnRelationDef>
+  
+   <PawnRelationDef>
+    <defName>Assistant</defName>
+    <label>assistant</label>
+    <labelFemale>assistant</labelFemale>
+    <diedThought>AssistantDied</diedThought>
+    <killedThought>AssistantKilled</killedThought>
+    <importance>10</importance>
+    <opinionOffset>10</opinionOffset>
+    <implied>false</implied>
+    <reflexive>false</reflexive>
+	<generationChanceFactor>0</generationChanceFactor>
+	<romanceChanceFactor>0</romanceChanceFactor>
+  </PawnRelationDef>
+  
+   <PawnRelationDef>
+    <defName>ChosenFamily</defName>
+    <label>chosen family member</label>
+    <labelFemale>chosen family member</labelFemale>
+    <diedThought>ChosenFamilyDied</diedThought>
+    <killedThought>ChosenFamilyKilled</killedThought>
+    <importance>100</importance>
+    <opinionOffset>10</opinionOffset>
+    <implied>false</implied>
+    <reflexive>true</reflexive>
+	<generationChanceFactor>0</generationChanceFactor>
+	<romanceChanceFactor>0</romanceChanceFactor>
+  </PawnRelationDef>
+
+   <PawnRelationDef>
+    <defName>Professor</defName>
+    <label>professor</label>
+    <labelFemale>professor</labelFemale>
+    <diedThought>ProfessorDied</diedThought>
+    <killedThought>ProfessorKilled</killedThought>
+    <importance>10</importance>
+    <opinionOffset>10</opinionOffset>
+    <implied>false</implied>
+    <reflexive>false</reflexive>
+	<generationChanceFactor>0</generationChanceFactor>
+	<romanceChanceFactor>0</romanceChanceFactor>
+  </PawnRelationDef>
+  
+   <PawnRelationDef>
+    <defName>Teacher</defName>
+    <label>teacher</label>
+    <labelFemale>teacher</labelFemale>
+    <diedThought>TeacherDied</diedThought>
+    <killedThought>TeacherKilled</killedThought>
+    <importance>10</importance>
+    <opinionOffset>10</opinionOffset>
+    <implied>false</implied>
+    <reflexive>false</reflexive>
+	<generationChanceFactor>0</generationChanceFactor>
+	<romanceChanceFactor>0</romanceChanceFactor>
+  </PawnRelationDef>
+  
+   <PawnRelationDef>
+    <defName>Student</defName>
+    <label>student</label>
+    <labelFemale>student</labelFemale>
+    <diedThought>StudentDied</diedThought>
+    <killedThought>StudentKilled</killedThought>
+    <importance>10</importance>
+    <opinionOffset>10</opinionOffset>
+    <implied>false</implied>
+    <reflexive>false</reflexive>
+	<generationChanceFactor>0</generationChanceFactor>
+	<romanceChanceFactor>0</romanceChanceFactor>
+  </PawnRelationDef>
+  
+   <PawnRelationDef>
+    <defName>BusinessPartner</defName>
+    <label>business partner</label>
+    <labelFemale>business partner</labelFemale>
+    <diedThought>BusinessPartnerDied</diedThought>
+    <killedThought>BusinessPartnerKilled</killedThought>
+    <importance>50</importance>
+    <opinionOffset>10</opinionOffset>
+    <implied>false</implied>
+    <reflexive>true</reflexive>
+	<generationChanceFactor>0</generationChanceFactor>
+	<romanceChanceFactor>0</romanceChanceFactor>
+  </PawnRelationDef>
+
+   <PawnRelationDef>
+    <defName>SiblingInArms</defName>
+    <label>brother-in-arms</label>
+    <labelFemale>sister-in-arms</labelFemale>
+    <diedThought>SiblingInArmsDied</diedThought>
+    <killedThought>SiblingInArmsKilled</killedThought>
+    <importance>100</importance>
+    <opinionOffset>10</opinionOffset>
+    <implied>false</implied>
+    <reflexive>true</reflexive>
+	<generationChanceFactor>0</generationChanceFactor>
+	<romanceChanceFactor>0</romanceChanceFactor>
+  </PawnRelationDef>
+
+   <PawnRelationDef>
+    <defName>Colleague</defName>
+    <label>colleague</label>
+    <labelFemale>colleague</labelFemale>
+    <diedThought>ColleagueDied</diedThought>
+    <killedThought>ColleagueKilled</killedThought>
+    <importance>10</importance>
+    <opinionOffset>10</opinionOffset>
+    <implied>false</implied>
+    <reflexive>true</reflexive>
+	<generationChanceFactor>0</generationChanceFactor>
+	<romanceChanceFactor>0</romanceChanceFactor>
+  </PawnRelationDef>
+  
+     <PawnRelationDef>
+    <defName>Coworker</defName>
+    <label>coworker</label>
+    <labelFemale>coworker</labelFemale>
+    <diedThought>CoworkerDied</diedThought>
+    <killedThought>CoworkerKilled</killedThought>
+    <importance>10</importance>
+    <opinionOffset>10</opinionOffset>
+    <implied>false</implied>
+    <reflexive>true</reflexive>
+	<generationChanceFactor>0</generationChanceFactor>
+	<romanceChanceFactor>0</romanceChanceFactor>
+  </PawnRelationDef>
+ 
+   <PawnRelationDef>
+    <defName>Godparent</defName>
+    <label>godfather</label>
+    <labelFemale>godmother</labelFemale>
+    <diedThought>GodparentDied</diedThought>
+    <killedThought>GodparentKilled</killedThought>
+    <importance>150</importance>
+    <opinionOffset>10</opinionOffset>
+    <implied>false</implied>
+    <reflexive>true</reflexive>
+	<generationChanceFactor>0</generationChanceFactor>
+	<romanceChanceFactor>0</romanceChanceFactor>
+  </PawnRelationDef>
+
+   <PawnRelationDef>
+    <defName>Godchild</defName>
+    <label>godson</label>
+    <labelFemale>goddaughter</labelFemale>
+    <diedThought>GodchildDied</diedThought>
+    <killedThought>GodchildKilled</killedThought>
+    <importance>150</importance>
+    <opinionOffset>10</opinionOffset>
+    <implied>false</implied>
+    <reflexive>true</reflexive>
+	<generationChanceFactor>0</generationChanceFactor>
+	<romanceChanceFactor>0</romanceChanceFactor>
+  </PawnRelationDef>
+  
+     <PawnRelationDef>
+    <defName>Captain</defName>
+    <label>captain</label>
+    <labelFemale>captain</labelFemale>
+    <diedThought>CaptainDied</diedThought>
+    <killedThought>CaptainKilled</killedThought>
+    <importance>10</importance>
+    <opinionOffset>10</opinionOffset>
+    <implied>false</implied>
+    <reflexive>false</reflexive>
+	<generationChanceFactor>0</generationChanceFactor>
+	<romanceChanceFactor>0</romanceChanceFactor>
+  </PawnRelationDef>
+
+     <PawnRelationDef>
+    <defName>Crewmate</defName>
+    <label>crewmate</label>
+    <labelFemale>crewmate</labelFemale>
+    <diedThought>CrewmateDied</diedThought>
+    <killedThought>CrewmateKilled</killedThought>
+    <importance>10</importance>
+    <opinionOffset>10</opinionOffset>
+    <implied>false</implied>
+    <reflexive>false</reflexive>
+	<generationChanceFactor>0</generationChanceFactor>
+	<romanceChanceFactor>0</romanceChanceFactor>
+  </PawnRelationDef>
+  
+</Defs>

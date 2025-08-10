@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+
+	<name>Platonic Relationships</name>
+    <author>lydocia</author>
+    <packageId>lydocia.PlatonicRelationships</packageId>
+    <supportedVersions>
+	    <li>1.4</li>
+        <li>1.5</li>
+        <li>1.6</li>
+    </supportedVersions>
+	<description>
+        Platonic relationships prohibit romantic relationships from naturally forming.
+		Use Character Editor, Prepare Carefully or similar to add adoptive relationships between pawns.
+		Included:
+        - Best friend
+        - Childhood friend
+		- Classmate
+		- Twin brother / sister
+		- Supervisor
+		- Subordinate
+		- Mentor
+		- Assistant
+		- Chosen family
+		- Professor
+		- Teacher
+		- Student
+		- Business partner
+		- Brother/sister-in-arms
+		- Colleague
+		- Coworker
+		- Godmother/Godfather
+		- Godson/Goddaughter
+		- Captain
+		- Crewmate
+	</description>
+</ModMetaData>

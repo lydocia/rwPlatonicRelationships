@@ -1,0 +1,68 @@
+[img]https://raw.githubusercontent.com/lydocia/ModsRimworld/refs/heads/main/PlatonicRelationships/banner.png[/img]
+
+[img]https://raw.githubusercontent.com/lydocia/ModsRimworld/refs/heads/main/description.png[/img]
+
+I just feel some pawns work better as friends. Sometimes I'm holding out for someone with the right skillset for optimal cohabitation. Or maybe we're working on a specific gene breeding project, who knows? Either way, we all have our reasons to want to exclude certain pawns from romancing each other. With this mod, you  can do that.
+
+This mod adds platonic relationships to the game. That means that, between pawns with any of these relationships active, the romantic interest is zero. It's fairly similar to my other mod, [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3364083523]Adoptive Relationships[/url], just with different relationship names.
+
+These relationships do not happen naturally, you will have to add them manually at the beginning of the game using [url=https://steamcommunity.com/sharedfiles/filedetails/?id=735106432]Prepare Carefully[/url] or mid-game using [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1874644848]Character Editor[/url].
+
+
+
+[img]https://raw.githubusercontent.com/lydocia/ModsRimworld/refs/heads/main/faq.png[/img]
+
+💀 [b]Will you add...?[/b]
+
+Yes! Probably! Maybe! If it's a good idea!
+
+Post your suggestions in the comment section, or reach out through Discord.
+
+
+
+[img]https://raw.githubusercontent.com/lydocia/ModsRimworld/refs/heads/main/changelog.png[/img]
+
+[05/08/25] 
+Fixed some issues with case sensitivity.
+Added relationships:
+- Captain
+- Crewmate
+
+[04/08/25] 
+Rebalanced some mood debuffs.
+Added relationships:
+- Professor
+- Teacher
+- Student
+- Business partner
+- Brother/sister-in-arms
+- Colleague
+- Coworker
+- Godmother/Godfather
+- Godson/Goddaughter
+
+[22/07/25] 
+Added relationships:
+-  Chosen family
+
+[21/07/25]
+Updated to 1.6. 
+Added relationships:
+- Twin brother / sister
+- Supervisor
+- Subordinate
+- Mentor
+- Assistant
+
+[29/12/2024] 
+Created the mod! 🎉
+Added relationships:
+- Best friend
+- Childhood friend
+- Classmate
+
+
+
+[url=https://steamcommunity.com/id/lydocia/myworkshopfiles/?appid=294100][img]https://raw.githubusercontent.com/lydocia/ModsRimworld/refs/heads/main/othermods.png[/img][/url]
+[url=https://discord.gg/ZPcuC3B][img]https://raw.githubusercontent.com/lydocia/ModsRimworld/refs/heads/main/modbucket.png[/img][/url]
+[url=https://ko-fi.com/lydocia][img]https://raw.githubusercontent.com/lydocia/ModsRimworld/refs/heads/main/kofi.png[/img][/url]
